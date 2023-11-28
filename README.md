@@ -1,5 +1,9 @@
 # BigPeng-Pool-Control-System
 
+![Static Badge](https://img.shields.io/badge/Lang-C%2B%2B-pink)
+![Static Badge](https://img.shields.io/badge/Lang-Python-blue)
+![Static Badge](https://img.shields.io/badge/Lang-HTML-orange)
+
 It's a homework for Harbin Engineering University Embedded System Design course, not a real project. So there may have some mistake. Getting Started below can help you run the project.
 
 ## Getting Started
@@ -57,3 +61,10 @@ After logging in the page, click "实时监测" to get new data. Make sure you s
 You can change the value of the sensor in proteus. Noted that the value of the sensor is not the same to the value you see in the web page. Try to change temperature, pH by DHT11 component, change NTU by LDR, change ORP by BMP180. **You need to refresh the page to see the new value. 1 update happens in 1 second.**
 
 Check what will happened if the temperature is lower than 25℃ or higher than 27℃, or if pH is lower than 6.8 or higher than 7.2, or if the NTU is higher than 1, or if the ORP is lower than 650.
+
+
+## Special Thanks
+
+**This work is origined by an old work, and I change the topic and modify the code of files written by C++, python, HTML. If you know who is the original writer, please tell me.**
+
+The logo of the web page is hydro-element in Genshin Impact.
